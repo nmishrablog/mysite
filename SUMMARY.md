@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Exploring Ideaspaces](README.md)
-* [Projects I find interesting](projects-i-find-interesting.md)
 
 ## SideProjects
 
