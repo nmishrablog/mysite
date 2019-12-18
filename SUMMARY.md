@@ -4,10 +4,10 @@
 
 ## SideProjects
 
-* [Magic Internet Points](sideprojects/magic-internet-points.md)
 * [Wisdom Curated](sideprojects/wisdom-curated.md)
-* [Bragging Rights](sideprojects/bragging-rights.md)
 * [AwesomePapers](sideprojects/awesomepapers.md)
+* [Magic Internet Points](sideprojects/magic-internet-points.md)
+* [Bragging Rights](sideprojects/bragging-rights.md)
 
 ## Ideaspaces
 
