@@ -11,5 +11,5 @@ Currently building [OpenOrgs](https://openorgs.co) and having fun on side projec
 * Write a book, a comic.
 * Get fitter
 
-#### Projects that I find Interesting
+
 

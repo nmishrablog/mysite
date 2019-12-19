@@ -11,8 +11,9 @@
   * [Bragging Rights](thoughts/sideprojects/bragging-rights.md)
 * [Mahatma & Decentralization](thoughts/untitled.md)
 * [Fullstack Learning Hydra](thoughts/fullstack-learning-hydra.md)
-* [Future Fashion](thoughts/future-fashion.md)
-* [Future Companies](thoughts/future-companies.md)
-* [Living Better](thoughts/living-better.md)
-* [an IDE for Writing](thoughts/an-ide-for-writing.md)
+* [Ideaspaces](ideaspaces/README.md)
+  * [Living Better](ideaspaces/living-better.md)
+  * [Future Companies](ideaspaces/future-companies.md)
+  * [an IDE for Writing](ideaspaces/an-ide-for-writing.md)
+  * [Future Fashion](ideaspaces/future-fashion.md)
 
