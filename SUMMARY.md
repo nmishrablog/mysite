@@ -2,22 +2,17 @@
 
 * [Exploring Ideaspaces](README.md)
 
-## SideProjects
-
-* [Wisdom Curated](sideprojects/wisdom-curated.md)
-* [AwesomePapers](sideprojects/awesomepapers.md)
-* [Magic Internet Points](sideprojects/magic-internet-points.md)
-* [Bragging Rights](sideprojects/bragging-rights.md)
-
-## Ideaspaces
-
-* [an IDE for Writing](ideaspaces/an-ide-for-writing.md)
-* [Future Fashion](ideaspaces/future-fashion.md)
-* [Future Companies](ideaspaces/future-companies.md)
-* [Living Better](ideaspaces/living-better.md)
-
 ## Thoughts
 
+* [Sideprojects](thoughts/sideprojects/README.md)
+  * [Wisdom Curated](thoughts/sideprojects/wisdom-curated.md)
+  * [AwesomePapers](thoughts/sideprojects/awesomepapers.md)
+  * [Magic Internet Points](thoughts/sideprojects/magic-internet-points.md)
+  * [Bragging Rights](thoughts/sideprojects/bragging-rights.md)
 * [Mahatma & Decentralization](thoughts/untitled.md)
 * [Fullstack Learning Hydra](thoughts/fullstack-learning-hydra.md)
+* [Future Fashion](thoughts/future-fashion.md)
+* [Future Companies](thoughts/future-companies.md)
+* [Living Better](thoughts/living-better.md)
+* [an IDE for Writing](thoughts/an-ide-for-writing.md)
 
