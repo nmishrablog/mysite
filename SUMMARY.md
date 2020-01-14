@@ -4,11 +4,6 @@
 
 ## Thoughts
 
-* [Sideprojects](thoughts/sideprojects/README.md)
-  * [Wisdom Curated](thoughts/sideprojects/wisdom-curated.md)
-  * [AwesomePapers](thoughts/sideprojects/awesomepapers.md)
-  * [Magic Internet Points](thoughts/sideprojects/magic-internet-points.md)
-  * [Bragging Rights](thoughts/sideprojects/bragging-rights.md)
 * [Mahatma & Decentralization](thoughts/untitled.md)
 * [Fullstack Learning Hydra](thoughts/fullstack-learning-hydra.md)
 * [Ideaspaces](ideaspaces/README.md)
