@@ -1,8 +1,13 @@
-# Start here
+# Exploring Ideaspaces
 
 I am Naveen, I explore Ideaspaces. 
 
-Building [Awesome Orgs ](https://awesomeorgs.com)and [Curating Wisdom](https://wisdomcurated.com) Online.
+Currently building [awesome orgs](https://awesomeorgs.com) and having fun on side projects.
+
+#### Goals
+
+* Grow awesome orgs to its maximum potential
+* Curate the best wisdom at Wisdom Curated
 
 
 
